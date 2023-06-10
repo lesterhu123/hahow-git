@@ -8,8 +8,6 @@
 7. git pull
 8. git diff
 
----
-
 # Most Useful Git Commands
 * git checkout
 git checkout has two functions, one is to switch between branch and HEAD, and the other is to restore the working directory files.
